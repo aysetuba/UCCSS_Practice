@@ -9,6 +9,8 @@ var config = {
             name: 'UCCSS'
         },
         port: 5000,
+        db: 'mongodb://127.0.0.1/helpMe-dev'
+
     },
     test: {
         root: rootPath,
@@ -16,6 +18,8 @@ var config = {
             name: 'UCCSS'
         },
         port: 4000,
+        db: 'mongodb://127.0.0.1/helpMe-test'
+
     },
 
     production: {
@@ -24,6 +28,8 @@ var config = {
             name: 'UCCSS'
         },
         port: 80,
+        db: 'mongodb://127.0.0.1/helpMe'
+
     }
 };
 

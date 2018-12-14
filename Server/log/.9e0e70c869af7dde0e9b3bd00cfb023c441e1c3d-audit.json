@@ -6,29 +6,99 @@
     "auditLog": "log/.9e0e70c869af7dde0e9b3bd00cfb023c441e1c3d-audit.json",
     "files": [
         {
-            "date": 1540828678262,
-            "name": "log/application-2018-10-29-10.log",
-            "hash": "c18c9ef85d402d27dfbd4e884fae4a09"
+            "date": 1543867308579,
+            "name": "log/application-2018-12-03-14.log",
+            "hash": "08acbcdd233bfbc6529a25f856c717cf"
         },
         {
-            "date": 1540829293092,
-            "name": "log/application-2018-10-29-11.log",
-            "hash": "7746e06ab3c3e880054e7d87bb1e15bf"
+            "date": 1543874166465,
+            "name": "log/application-2018-12-03-15.log",
+            "hash": "d949ba29b77accdf311549c8779a5f16"
         },
         {
-            "date": 1540832411084,
-            "name": "log/application-2018-10-29-12.log",
-            "hash": "25e24724bdb675bb3a45caad4999430c"
+            "date": 1543946144308,
+            "name": "log/application-2018-12-04-11.log",
+            "hash": "1bee2cc457e48a04f9e641039379b542"
         },
         {
-            "date": 1540840100396,
-            "name": "log/application-2018-10-29-14.log",
-            "hash": "2adb399a0c4eae0b51b8a3a2606744ad"
+            "date": 1543946821763,
+            "name": "log/application-2018-12-04-12.log",
+            "hash": "02069394a6fb61ff208879bc05fd3acf"
         },
         {
-            "date": 1540843205983,
-            "name": "log/application-2018-10-29-15.log",
-            "hash": "d477bf1e74afb11f3b7e358475d4cc48"
+            "date": 1544125078717,
+            "name": "log/application-2018-12-06-13.log",
+            "hash": "2865294b38567c48ceee4ec1f4d64d28"
+        },
+        {
+            "date": 1544215411513,
+            "name": "log/application-2018-12-07-14.log",
+            "hash": "7de190511fd71ffebf6bb3f955ba8abd"
+        },
+        {
+            "date": 1544294638590,
+            "name": "log/application-2018-12-08-12.log",
+            "hash": "46b94b8cd85d42118b2a066fcba8f56f"
+        },
+        {
+            "date": 1544296305122,
+            "name": "log/application-2018-12-08-13.log",
+            "hash": "b0338f90f09f2ba7efe7891aec3a04c8"
+        },
+        {
+            "date": 1544299896546,
+            "name": "log/application-2018-12-08-14.log",
+            "hash": "0bfae8cfa762a866b8c87674d466fcef"
+        },
+        {
+            "date": 1544303690611,
+            "name": "log/application-2018-12-08-15.log",
+            "hash": "4ef60b5aaa0eddcf385b28c5c0ea4def"
+        },
+        {
+            "date": 1544379146556,
+            "name": "log/application-2018-12-09-12.log",
+            "hash": "518004fec9f8e498c0d17e217795b73e"
+        },
+        {
+            "date": 1544395397838,
+            "name": "log/application-2018-12-09-16.log",
+            "hash": "49781fdf880d2091639afa58b582033f"
+        },
+        {
+            "date": 1544396511810,
+            "name": "log/application-2018-12-09-17.log",
+            "hash": "530e28de39969f5a2ac3553699fc5601"
+        },
+        {
+            "date": 1544401670201,
+            "name": "log/application-2018-12-09-18.log",
+            "hash": "a77f397719e989844414bb2048e798c1"
+        },
+        {
+            "date": 1544462564442,
+            "name": "log/application-2018-12-10-11.log",
+            "hash": "adceed089d4ff871f23c8abcb2688085"
+        },
+        {
+            "date": 1544464800002,
+            "name": "log/application-2018-12-10-12.log",
+            "hash": "27009caff451e821cb9132bbec022a9c"
+        },
+        {
+            "date": 1544473274694,
+            "name": "log/application-2018-12-10-14.log",
+            "hash": "4b0f190c21207f12a6b6481767630317"
+        },
+        {
+            "date": 1544475769173,
+            "name": "log/application-2018-12-10-15.log",
+            "hash": "985b9ecd8de48bcc6a60c30701bbf029"
+        },
+        {
+            "date": 1544479542798,
+            "name": "log/application-2018-12-10-16.log",
+            "hash": "fdf231cc2d977dbf1bc438519d544021"
         }
     ]
 }

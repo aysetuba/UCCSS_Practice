@@ -65,5 +65,5 @@ var jwtOptions = {
     .catch(function(err){ return next(err);});
   });
   
-
+passport.use(jwtLogin);
 passport.use(localLogin);

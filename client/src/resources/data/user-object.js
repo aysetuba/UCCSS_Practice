@@ -1,5 +1,9 @@
-import {inject} from 'aurelia-framework';
-import {DataServices} from './data-services';
+import {
+  inject
+} from 'aurelia-framework';
+import {
+  DataServices
+} from './data-services';
 
 @inject(DataServices)
 export class User {
@@ -27,13 +31,13 @@ export class User {
       this.usersArray = [];
     }
   }
-  async delete(user){
-    if(user && user._id){
+  async delete(user) {
+    if (user && user._id) {
       await this.data.delete(this.USER_SERVICE + '/' + user._id)
     }
-    }
-    
-    
+  }
+
+
 
 
 }
